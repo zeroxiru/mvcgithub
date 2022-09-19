@@ -11,6 +11,7 @@ namespace WebAppWithGitRepo
 {
     public class Program
     {
+        // this is the change
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
